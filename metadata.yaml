@@ -1,0 +1,47 @@
+_repo: The-Story-of-Sir-Francis-Drake_67864
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, T. H. (Thomas Heath)
+    alias: Robinson, Thomas Heath
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '25118'
+    url: http://www.gutenberg.org/2009/agents/25118
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Heath_Robinson
+creator:
+  author:
+    agent_name: Elton, Letitia MacColl
+    alias: Elton, Mrs. Oliver
+    gutenberg_agent_id: '54499'
+    url: http://www.gutenberg.org/2009/agents/54499
+description: ''
+gutenberg_issued: '2022-04-18'
+identifiers:
+  gutenberg: '67864'
+  lccn: '07035224'
+language: en
+pgterms:marc904: https://archive.org/details/storyofsirfranci00eltorich
+pgterms:marc905: 20220306173011elton
+pgterms:marc906: '1906'
+pgterms:marc907: gb
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United Kingdom :T. C. & E. C. Jack / E. F. Dutton,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Children's Heroes Series
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Biography -- Juvenile
+  literature'
+- !lcsh 'Great Britain -- History, Naval -- Tudors, 1485-1603 -- Biography -- Juvenile
+  literature'
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Juvenile literature'
+- !lcsh 'Admirals -- Great Britain -- Biography -- Juvenile literature'
+- !lcsh 'Explorers -- Great Britain -- Biography -- Juvenile literature'
+- GITenberg
+title: The Story of Sir Francis Drake
+url: http://www.gutenberg.org/ebooks/67864
