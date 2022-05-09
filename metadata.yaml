@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '25118'
     url: http://www.gutenberg.org/2009/agents/25118
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Heath_Robinson
+covers:
+- cover_type: archival
+  image_path: 67864-h/images/cover.jpg
 creator:
   author:
     agent_name: Elton, Letitia MacColl
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '54499'
     url: http://www.gutenberg.org/2009/agents/54499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67864#The-Story-of-Sir-Francis-Drake
 gutenberg_issued: '2022-04-18'
 identifiers:
   gutenberg: '67864'
